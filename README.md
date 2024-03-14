@@ -29,5 +29,4 @@ Notes:
 Ensure that the device has internet connectivity for dependency resolution during the build process.
 This calculator app is designed for basic arithmetic calculations and does not support advanced mathematical functions.
 
-![WhatsApp Image 2024-03-14 at 6 54 25 PM (1)](https://github.com/Rudresh07/My-Calculator/assets/97966593/89f0e97a-5261-4f86-825b-378d731b7734)
-![WhatsApp Image 2024-03-14 at 6 54 25 PM](https://github.com/Rudresh07/My-Calculator/assets/97966593/e3bc10a4-be94-4ad8-946d-849529c19f97)
+![Screenshot 2024-03-14 192419](https://github.com/Rudresh07/My-Calculator/assets/97966593/e10e458d-6564-4a23-84ee-8d707504294e)
